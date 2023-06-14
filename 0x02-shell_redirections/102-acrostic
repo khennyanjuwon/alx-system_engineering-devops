@@ -1,0 +1,2 @@
+102-acrostic
+cut -c 1 | paste -s -d ''
